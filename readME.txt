@@ -10,8 +10,7 @@
   ...readData: a function that computes a data struct containing all relevant data values for a given problem;
   ...stormerVerlet: the Stormer-Verlet (VTV) integrator;
   ...symplecticEuler: the symplectic Euler (VT) integrator;
-  ...yoshida4th: Yoshida's 4th order integrator;
-  ...mainCH2: a "flat" version of main_CH2.
+  ...yoshida4th: Yoshida's 4th order integrator.
 
 
 2. Chapter 4: MATLAB code/
@@ -22,7 +21,6 @@
   ...stormerVerlet: see above;
   ...symplecticEuler: see above,
   ...yoshida4th: see above.
-  ...mainCH4: a "flat" version of main_CH4.
 
 
 3. Figures/
